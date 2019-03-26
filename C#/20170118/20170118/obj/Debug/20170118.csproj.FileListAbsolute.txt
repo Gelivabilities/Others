@@ -1,0 +1,9 @@
+F:\visual studio 2012\C#\20170118\20170118\bin\Debug\20170118.exe.config
+F:\visual studio 2012\C#\20170118\20170118\bin\Debug\20170118.exe
+F:\visual studio 2012\C#\20170118\20170118\bin\Debug\20170118.pdb
+F:\visual studio 2012\C#\20170118\20170118\obj\Debug\20170118.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\20170118\20170118\obj\Debug\_20170118.Form1.resources
+F:\visual studio 2012\C#\20170118\20170118\obj\Debug\_20170118.Properties.Resources.resources
+F:\visual studio 2012\C#\20170118\20170118\obj\Debug\20170118.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\20170118\20170118\obj\Debug\20170118.exe
+F:\visual studio 2012\C#\20170118\20170118\obj\Debug\20170118.pdb

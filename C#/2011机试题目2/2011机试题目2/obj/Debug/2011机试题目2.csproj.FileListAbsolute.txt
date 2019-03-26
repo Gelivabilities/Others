@@ -1,0 +1,9 @@
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\bin\Debug\2011机试题目2.exe.config
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\bin\Debug\2011机试题目2.exe
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\bin\Debug\2011机试题目2.pdb
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\obj\Debug\2011机试题目2.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\obj\Debug\_2011机试题目2.Form1.resources
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\obj\Debug\_2011机试题目2.Properties.Resources.resources
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\obj\Debug\2011机试题目2.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\obj\Debug\2011机试题目2.exe
+F:\visual studio 2012\C#\2011机试题目2\2011机试题目2\obj\Debug\2011机试题目2.pdb

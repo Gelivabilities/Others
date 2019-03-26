@@ -1,0 +1,8 @@
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\bin\Release\TaikojiroFileSearchAndDownloader.exe.config
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\bin\Release\TaikojiroFileSearchAndDownloader.exe
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\bin\Release\TaikojiroFileSearchAndDownloader.pdb
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\obj\Release\TaikojiroFileSearchAndDownloader.Form1.resources
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\obj\Release\TaikojiroFileSearchAndDownloader.Properties.Resources.resources
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\obj\Release\TaikojiroFileSearchAndDownloader.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\obj\Release\TaikojiroFileSearchAndDownloader.exe
+F:\visual studio 2012\C#\TaikojiroFileSearchAndDownloader\TaikojiroFileSearchAndDownloader\obj\Release\TaikojiroFileSearchAndDownloader.pdb

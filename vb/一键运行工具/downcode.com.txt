@@ -1,0 +1,14 @@
+╭══════════════════════════════════════════╮
+║                              源易网--中国源码下载站                                ║
+║                                                                                    ║
+║              源码下载:www.downcode.com  源码论坛:www.downcode.net                  ║
+║                                                                                    ║
+║                       如有转载请勿删除以上信息，谢谢合作                           ║
+╰══════════════════════════════════════════╯
+╭══════════════════════════════════════════╮
+║ 　　　　　　　　　　　　　　　　程序相关使用说明　　　　　　　　　　  　　　　　　 ║
+╰══════════════════════════════════════════╯
+
+
+
+一款清爽的VB版水晶按钮控件的源代码，附有众多风格样式的按钮使用示例，这款控件是基于API函数，一总用到了4个API，按钮效果还是不错的，不过程序反应有点慢，而且也稍微占用系统资源，水平高的朋友可以改进一下。

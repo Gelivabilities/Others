@@ -1,0 +1,9 @@
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\bin\Debug\次郎转本家代码.exe.config
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\bin\Debug\次郎转本家代码.exe
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\bin\Debug\次郎转本家代码.pdb
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\obj\Debug\次郎转本家代码.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\obj\Debug\次郎转本家代码.Form1.resources
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\obj\Debug\次郎转本家代码.Properties.Resources.resources
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\obj\Debug\次郎转本家代码.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\obj\Debug\次郎转本家代码.exe
+F:\visual studio 2012\C#\次郎转本家代码\次郎转本家代码\obj\Debug\次郎转本家代码.pdb

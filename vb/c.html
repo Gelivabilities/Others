@@ -1,0 +1,89 @@
+html>
+<head>
+<title>代码转换器</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+<style type=text/css>
+body { background-color: white; margin-top: 24px; }
+h1 { font: normal 20px '黑体'; text-align: center; color: black; }
+td, textarea, input, select { font: normal 12px 'Courier New'; color: black; }
+</style>
+
+<script language="JavaScript">
+
+//在钟钟原来的基础上风云突变修改
+
+function paste() { //粘帖
+ var clipboard = window.clipboardData.getData('text');
+ clipboard == null ? alert('您的剪切板中没有任何文本内容') : source.value = clipboard;
+}
+
+function make() { //转换
+ if (source.value == '') { alert('文本框中没有代码'); return; }
+ switch (type.value) {
+  case 'ASP':
+   var hStr = 'Response.Write(_\n';
+   var sStr = '"';
+   var eStr = '" & _';
+   var tStr = '"")';
+   var reExp = /\"/g;;
+   var reTxt = '""';
+   break;
+  case 'VBScript':
+   var hStr = 'document.write _\n';
+   var sStr = '"';
+   var eStr = '" & _';
+   var tStr = '""';
+   var reExp = /\"/g;
+   var reTxt = '""';
+   break;
+  default:
+   var hStr = 'document.write(\n';
+   var sStr = '\'';
+   var eStr = '\' +';
+   var tStr = '\'\');';
+   var reExp = /((\')|(\\))/g;
+   var reTxt = '\\$1';
+ }
+ var code = source.value.replace(/(^\s*)|(\s*$)/g, '').split("\r\n");
+ result.value = hStr;
+ for (var i=0; i<code.length; i++)
+ result.value += '\t' + sStr + code[i].replace(reExp, reTxt) + eStr + '\n';
+ result.value += tStr
+}
+
+function preview() { //预览
+ if (type.value == 'JavaScript' || type.value == 'VBScript') {
+  var win = window.open();
+  win.document.open('text/html', 'replace');
+  win.document.writeln('<script language="' + type.value + '">\n' + result.value + '\n<\/script>');
+  win.document.close();
+ }
+ else { alert('无法直接预览'); }
+}
+
+function copy() { //复制
+ result.value == '' ? alert('没有需要复制的代码') : window.clipboardData.setData('text', result.value);
+}
+</script>
+
+</head>
+
+<body>
+<table width="750" align="center"><tr><td>
+<h1>代码转换器</h1>
+<hr>
+<input type="button" value="1.粘帖" onclick="paste();">（将需要进行转换的代码粘帖到下面的文本框中）
+<textarea style="width:750px;height:180px;" id="source"></textarea><br><br>
+<hr>
+<input type="button" value="2.转换" onclick="make();"> <select id="type" onchange="make();"><option value="JavaScript" selected>JavaScript</option><option value="VBScript">VBScript</option><option value="ASP">ASP</option></select>（点击转换按钮将完成从HTML代码到相应代码的转换）
+<textarea style="width:750px;height:180px;" id="result"></textarea><br><br>
+<hr>
+<input type="button" value="3.预览" onclick="preview();">（查看转换后的效果）
+<img width="100" height="1">
+<input type="button" value="4.复制" onclick="copy();">（复制转换后的代码到剪贴板中）
+<br>
+</td></tr></table>
+</body>
+
+</html>

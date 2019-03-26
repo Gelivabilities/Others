@@ -1,0 +1,13 @@
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\bin\Debug\wpfvTaikojiroSearchAndDownloader.exe.config
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\bin\Debug\wpfvTaikojiroSearchAndDownloader.exe
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\bin\Debug\wpfvTaikojiroSearchAndDownloader.pdb
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\wpfvTaikojiroSearchAndDownloader.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\MainWindow.baml
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\MainWindow.g.cs
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\App.g.cs
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\wpfvTaikojiroSearchAndDownloader_MarkupCompile.cache
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\wpfvTaikojiroSearchAndDownloader.g.resources
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\wpfvTaikojiroSearchAndDownloader.Properties.Resources.resources
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\wpfvTaikojiroSearchAndDownloader.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\wpfvTaikojiroSearchAndDownloader.exe
+F:\visual studio 2012\C#\wpfvTaikojiroSearchAndDownloader\wpfvTaikojiroSearchAndDownloader\obj\Debug\wpfvTaikojiroSearchAndDownloader.pdb

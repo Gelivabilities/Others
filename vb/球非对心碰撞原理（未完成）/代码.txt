@@ -1,0 +1,140 @@
+Private Sub Timer2_Timer()
+Dim n As Double
+
+Shape4.Left = (Shape2.Left + Shape3.Left + Shape2.Width - Shape4.Width) / 2
+Shape4.Top = (Shape2.Top + Shape3.Top + Shape2.Height - Shape4.Height) / 2
+
+X = vxball1
+Y = vyball1
+Shape2.Top = Shape2.Top + Y
+Shape2.Left = Shape2.Left + X
+
+
+If Shape2.Top + Shape2.Height > Form1.Height - 435 Then
+Shape2.Top = Form1.Height - 435 - Shape2.Height
+vyball1 = -vyball1
+End If
+
+If Shape2.Top < 1200 Then
+Shape2.Top = 1200
+vyball1 = -vyball1
+End If
+
+
+If Shape2.Left + Shape2.Width > Form1.Width - 120 Then
+Shape2.Left = Form1.Width - 120 - Shape2.Width
+vxball1 = -vxball1
+End If
+
+If Shape2.Left < 0 Then
+Shape2.Left = 0
+vxball1 = -vxball1
+End If
+
+
+
+
+a = vxball2
+B = vyball2
+Shape3.Top = Shape3.Top + B
+Shape3.Left = Shape3.Left + a
+
+If Shape3.Top + Shape3.Height > Form1.Height - 435 Then
+Shape3.Top = Form1.Height - 435 - Shape3.Height
+vyball2 = -vyball2
+End If
+
+If Shape3.Top < 1200 Then
+Shape3.Top = 1200
+vyball2 = -vyball2
+End If
+
+
+If Shape3.Left + Shape3.Width > Form1.Width - 120 Then
+Shape3.Left = Form1.Width - 120 - Shape3.Width
+vxball2 = -vxball2
+End If
+
+If Shape3.Left < 0 Then
+Shape3.Left = 0
+vxball2 = -vxball2
+End If
+
+
+
+
+
+
+If (Shape2.Left + (Shape2.Width) / 2 - Shape3.Left - (Shape3.Width) / 2) ^ 2 + (Shape2.Top + (Shape2.Height) / 2 - Shape3.Top - (Shape3.Height) / 2) ^ 2 < Shape2.Width ^ 2 Then
+
+
+
+n = 1
+
+Do While n <= 100
+Shape3.Left = Shape3.Left - 0.1 * vxball2
+Shape3.Top = Shape3.Top - 0.1 * vyball2
+Shape2.Top = Shape2.Top - 0.1 * vyball1
+Shape2.Left = Shape2.Left - 0.1 * vxball1
+If (Shape2.Left + (Shape2.Width) / 2 - Shape3.Left - (Shape3.Width) / 2) ^ 2 + (Shape2.Top + (Shape2.Height) / 2 - Shape3.Top - (Shape3.Height) / 2) ^ 2 > Shape3.Width ^ 2 Then
+Exit Do
+End If
+n = n + 1
+Loop
+
+
+scrash (0)
+
+
+'vxball1 = -vxball1
+'vyball1 = -vyball1
+'vxball2 = -vxball2
+'vyball2 = -vyball2
+End If
+
+End Sub
+
+Public Function scrash(i As Integer)
+
+Dim X, Y, a, B, v1, v2, vx1, vx2, vy1, vy2, x1, y1, x2, y2, v1p, v2p, v1yp, v1lp, v2yp, v2lp, xita, xita1, xita2, A0, B0, C, D, E, F, G, H, k As Double
+Select Case i
+Case 0
+
+vx1 = vxball1
+vy1 = -vyball1
+vx2 = vxball2
+vy2 = -vyball2
+
+
+x1 = Shape2.Left + Shape2.Width / 2
+y1 = Shape2.Top + Shape2.Height / 2
+x2 = Shape3.Left + Shape3.Width / 2
+y2 = Shape3.Top + Shape3.Height / 2
+
+If (x2 - x1) = 0 Then
+k = (y1 - y2) / (1E-40)
+Else
+k = (y1 - y2) / (x2 - x1)
+End If
+
+A0 = (-k * vy1 + vx1) / (k ^ 2 + 1)
+B0 = k * (-k * vy1 + vx1) / (k ^ 2 + 1)
+G = k * (k * vx1 + vy1) / (k ^ 2 + 1)
+H = (-vy1 - k * vx1) / (k ^ 2 + 1)
+
+C = (-k * vy2 + vx2) / (k ^ 2 + 1)
+D = k * (-k * vy2 + vx2) / (k ^ 2 + 1)
+E = k * (k * vx2 + vy2) / (k ^ 2 + 1)
+F = (-vy2 - k * vx2) / (k ^ 2 + 1)
+
+
+
+
+vxball1 = A0 + E
+vyball1 = B0 + F
+vxball2 = C + G
+vyball2 = D + H
+
+End Select
+
+End Function

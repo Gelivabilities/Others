@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaikojiroFileSearcher", "TaikojiroFileSearcher\TaikojiroFileSearcher.csproj", "{DE6BAA88-F4BE-4064-BCE9-EF10206B860A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6BAA88-F4BE-4064-BCE9-EF10206B860A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6BAA88-F4BE-4064-BCE9-EF10206B860A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6BAA88-F4BE-4064-BCE9-EF10206B860A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6BAA88-F4BE-4064-BCE9-EF10206B860A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

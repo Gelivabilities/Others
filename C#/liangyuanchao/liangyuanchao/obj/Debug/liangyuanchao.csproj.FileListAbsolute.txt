@@ -1,0 +1,9 @@
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\bin\Debug\liangyuanchao.exe.config
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\bin\Debug\liangyuanchao.exe
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\bin\Debug\liangyuanchao.pdb
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\obj\Debug\liangyuanchao.csprojResolveAssemblyReference.cache
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\obj\Debug\liangyuanchao.Form1.resources
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\obj\Debug\liangyuanchao.Properties.Resources.resources
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\obj\Debug\liangyuanchao.csproj.GenerateResource.Cache
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\obj\Debug\liangyuanchao.exe
+G:\文件大整合\编程\C#\liangyuanchao\liangyuanchao\obj\Debug\liangyuanchao.pdb

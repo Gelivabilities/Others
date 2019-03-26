@@ -1,0 +1,1 @@
+start /min "" "C:\CF¿´Õ½¼¨\x.html"

@@ -1,0 +1,10 @@
+F:\visual studio 2012\C#\JiroToH\JiroToH\bin\Debug\JiroToH.exe.config
+F:\visual studio 2012\C#\JiroToH\JiroToH\bin\Debug\JiroToH.exe
+F:\visual studio 2012\C#\JiroToH\JiroToH\bin\Debug\JiroToH.pdb
+F:\visual studio 2012\C#\JiroToH\JiroToH\bin\Debug\JiroToH.xml
+F:\visual studio 2012\C#\JiroToH\JiroToH\obj\Debug\JiroToH.Form1.resources
+F:\visual studio 2012\C#\JiroToH\JiroToH\obj\Debug\JiroToH.Resources.resources
+F:\visual studio 2012\C#\JiroToH\JiroToH\obj\Debug\JiroToH.vbproj.GenerateResource.Cache
+F:\visual studio 2012\C#\JiroToH\JiroToH\obj\Debug\JiroToH.exe
+F:\visual studio 2012\C#\JiroToH\JiroToH\obj\Debug\JiroToH.xml
+F:\visual studio 2012\C#\JiroToH\JiroToH\obj\Debug\JiroToH.pdb

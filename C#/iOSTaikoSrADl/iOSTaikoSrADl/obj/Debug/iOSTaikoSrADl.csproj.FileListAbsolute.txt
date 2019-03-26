@@ -1,0 +1,10 @@
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\bin\Debug\iOSTaikoSrADl.exe.config
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\bin\Debug\iOSTaikoSrADl.exe
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\bin\Debug\iOSTaikoSrADl.pdb
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\obj\Debug\iOSTaikoSrADl.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\obj\Debug\iOSTaikoSrADl.Form1.resources
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\obj\Debug\iOSTaikoSrADl.Properties.Resources.resources
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\obj\Debug\iOSTaikoSrADl.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\obj\Debug\iOSTaikoSrADl.exe
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\obj\Debug\iOSTaikoSrADl.pdb
+F:\visual studio 2012\C#\iOSTaikoSrADl\iOSTaikoSrADl\obj\Debug\iOSTaikoSrADl.Form2.resources

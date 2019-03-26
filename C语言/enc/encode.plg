@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: encode - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPF1DF.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/encode.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"G:\文件大整合\编程\C++\enc\encode.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPF1DF.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPF1E0.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/encode.pdb" /debug /machine:I386 /out:"Debug/encode.exe" /pdbtype:sept 
+".\Debug\encode.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPF1E0.tmp"
+<h3>Output Window</h3>
+Compiling...
+encode.cpp
+G:\文件大整合\编程\C++\enc\encode.cpp(131) : warning C4715: 'pzz' : not all control paths return a value
+Linking...
+
+
+
+<h3>Results</h3>
+encode.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

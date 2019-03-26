@@ -1,0 +1,8 @@
+行 148: 控件 Slider1 的类 ComctlLib.Slider 不是一个已加载的控件类。
+行 158: 控件 p 的类 ComctlLib.ProgressBar 不是一个已加载的控件类。
+行 154: 属性名 _ExtentX 在 Slider1 中是无效的。
+行 155: 属性名 _ExtentY 在 Slider1 中是无效的。
+行 156: 属性名 _Version 在 Slider1 中是无效的。
+行 164: 属性名 _ExtentX 在 p 中是无效的。
+行 165: 属性名 _ExtentY 在 p 中是无效的。
+行 166: 属性名 _Version 在 p 中是无效的。

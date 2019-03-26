@@ -1,0 +1,14 @@
+╭══════════════════════════════════════════╮
+║                              源易网--中国源码下载站                                ║
+║                                                                                    ║
+║              源码下载:www.downcode.com  源码论坛:www.downcode.net                  ║
+║                                                                                    ║
+║                       如有转载请勿删除以上信息，谢谢合作                           ║
+╰══════════════════════════════════════════╯
+╭══════════════════════════════════════════╮
+║ 　　　　　　　　　　　　　　　　程序相关使用说明　　　　　　　　　　  　　　　　　 ║
+╰══════════════════════════════════════════╯
+
+
+
+检测CPU瞬时使用率情况，并以两种方式显示出来：一种是在系统托盘显示图标，鼠标放上去即可显示出占用率；另一种是直接双击打开程序就显示了。

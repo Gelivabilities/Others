@@ -1,0 +1,9 @@
+F:\visual studio 2012\C#\20170115练习\20170115练习\bin\Debug\20170115练习.exe.config
+F:\visual studio 2012\C#\20170115练习\20170115练习\bin\Debug\20170115练习.exe
+F:\visual studio 2012\C#\20170115练习\20170115练习\bin\Debug\20170115练习.pdb
+F:\visual studio 2012\C#\20170115练习\20170115练习\obj\Debug\20170115练习.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\20170115练习\20170115练习\obj\Debug\_20170115练习.Form1.resources
+F:\visual studio 2012\C#\20170115练习\20170115练习\obj\Debug\_20170115练习.Properties.Resources.resources
+F:\visual studio 2012\C#\20170115练习\20170115练习\obj\Debug\20170115练习.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\20170115练习\20170115练习\obj\Debug\20170115练习.exe
+F:\visual studio 2012\C#\20170115练习\20170115练习\obj\Debug\20170115练习.pdb

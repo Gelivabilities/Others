@@ -1,0 +1,1 @@
+F:\visual studio 2012\C#\TaikojiroFileSearcher\TaikojiroFileSearcher\bin\Debug\TaikojiroFileSearcher.exe.config

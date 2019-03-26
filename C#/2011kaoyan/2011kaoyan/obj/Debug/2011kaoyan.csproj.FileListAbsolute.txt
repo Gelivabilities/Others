@@ -1,0 +1,12 @@
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\bin\Debug\2011kaoyan.exe.config
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\bin\Debug\2011kaoyan.exe
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\bin\Debug\2011kaoyan.pdb
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\2011kaoyan.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\_2011kaoyan.Form1.resources
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\_2011kaoyan.Properties.Resources.resources
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\2011kaoyan.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\2011kaoyan.exe
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\2011kaoyan.pdb
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\_2011kaoyan.Form2.resources
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\_2011kaoyan.Form3.resources
+F:\visual studio 2012\C#\2011kaoyan\2011kaoyan\obj\Debug\_2011kaoyan.Form4.resources

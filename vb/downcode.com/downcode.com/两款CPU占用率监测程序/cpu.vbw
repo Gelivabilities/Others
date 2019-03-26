@@ -1,0 +1,4 @@
+frmMain = 20, -3, 611, 542, C, 22, 22, 613, 544, C
+clsCPUUsage = 132, 132, 723, 654, 
+mod_getOsver = 88, 88, 621, 537, 
+mod_getReginfo = 110, 110, 643, 559, 

@@ -1,0 +1,9 @@
+F:\visual studio 2012\C#\cq\cq\bin\Debug\cq.exe.config
+F:\visual studio 2012\C#\cq\cq\bin\Debug\cq.exe
+F:\visual studio 2012\C#\cq\cq\bin\Debug\cq.pdb
+F:\visual studio 2012\C#\cq\cq\obj\Debug\cq.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\cq\cq\obj\Debug\cq.Form1.resources
+F:\visual studio 2012\C#\cq\cq\obj\Debug\cq.Properties.Resources.resources
+F:\visual studio 2012\C#\cq\cq\obj\Debug\cq.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\cq\cq\obj\Debug\cq.exe
+F:\visual studio 2012\C#\cq\cq\obj\Debug\cq.pdb

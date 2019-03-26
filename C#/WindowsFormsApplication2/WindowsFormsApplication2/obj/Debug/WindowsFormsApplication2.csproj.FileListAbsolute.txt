@@ -1,0 +1,1 @@
+F:\visual studio 2012\C#\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config

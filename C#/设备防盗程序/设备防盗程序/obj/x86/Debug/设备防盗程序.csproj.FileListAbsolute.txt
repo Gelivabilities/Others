@@ -1,0 +1,7 @@
+F:\visual studio 2012\C#\设备防盗程序\设备防盗程序\bin\Debug\设备防盗程序.exe
+F:\visual studio 2012\C#\设备防盗程序\设备防盗程序\bin\Debug\设备防盗程序.pdb
+F:\visual studio 2012\C#\设备防盗程序\设备防盗程序\obj\x86\Debug\设备防盗程序.Form1.resources
+F:\visual studio 2012\C#\设备防盗程序\设备防盗程序\obj\x86\Debug\设备防盗程序.Properties.Resources.resources
+F:\visual studio 2012\C#\设备防盗程序\设备防盗程序\obj\x86\Debug\设备防盗程序.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\设备防盗程序\设备防盗程序\obj\x86\Debug\设备防盗程序.exe
+F:\visual studio 2012\C#\设备防盗程序\设备防盗程序\obj\x86\Debug\设备防盗程序.pdb

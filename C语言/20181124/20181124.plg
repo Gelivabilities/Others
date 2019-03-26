@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 20181124 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA1EB.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/20181124.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"G:\文件大整合\编程\C++\20181124\1.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA1EB.tmp" 
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSPA1EC.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/20181124.pdb" /debug /machine:I386 /out:"Debug/20181124.exe" /pdbtype:sept 
+".\Debug\1.obj"
+]
+Creating command line "link.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSPA1EC.tmp"
+<h3>Output Window</h3>
+Compiling...
+1.cpp
+G:\文件大整合\编程\C++\20181124\1.cpp(6) : error C2258: illegal pure syntax, must be '= 0'
+G:\文件大整合\编程\C++\20181124\1.cpp(6) : error C2252: 'num1' : pure specifier can only be specified for functions
+G:\文件大整合\编程\C++\20181124\1.cpp(7) : error C2258: illegal pure syntax, must be '= 0'
+G:\文件大整合\编程\C++\20181124\1.cpp(7) : error C2252: 'num2' : pure specifier can only be specified for functions
+G:\文件大整合\编程\C++\20181124\1.cpp(16) : error C2039: 'num1' : is not a member of 'math'
+        G:\文件大整合\编程\C++\20181124\1.cpp(4) : see declaration of 'math'
+G:\文件大整合\编程\C++\20181124\1.cpp(16) : error C2039: 'num2' : is not a member of 'math'
+        G:\文件大整合\编程\C++\20181124\1.cpp(4) : see declaration of 'math'
+执行 cl.exe 时出错.
+
+
+
+<h3>Results</h3>
+20181124.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,9 @@
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\bin\Debug\JirocodeToH.exe.config
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\bin\Debug\JirocodeToH.exe
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\bin\Debug\JirocodeToH.pdb
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\obj\Debug\JirocodeToH.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\obj\Debug\JirocodeToH.Form1.resources
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\obj\Debug\JirocodeToH.Properties.Resources.resources
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\obj\Debug\JirocodeToH.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\obj\Debug\JirocodeToH.exe
+F:\visual studio 2012\C#\JirocodeToH\JirocodeToH\obj\Debug\JirocodeToH.pdb

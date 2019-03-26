@@ -1,0 +1,10 @@
+F:\visual studio 2012\C#\chouqian\chouqian\bin\Debug\chouqian.exe.config
+F:\visual studio 2012\C#\chouqian\chouqian\bin\Debug\chouqian.exe
+F:\visual studio 2012\C#\chouqian\chouqian\bin\Debug\chouqian.pdb
+F:\visual studio 2012\C#\chouqian\chouqian\obj\Debug\chouqian.Form1.resources
+F:\visual studio 2012\C#\chouqian\chouqian\obj\Debug\chouqian.Properties.Resources.resources
+F:\visual studio 2012\C#\chouqian\chouqian\obj\Debug\chouqian.csproj.GenerateResource.Cache
+F:\visual studio 2012\C#\chouqian\chouqian\obj\Debug\chouqian.exe
+F:\visual studio 2012\C#\chouqian\chouqian\obj\Debug\chouqian.pdb
+F:\visual studio 2012\C#\chouqian\chouqian\obj\Debug\chouqian.csprojResolveAssemblyReference.cache
+F:\visual studio 2012\C#\chouqian\chouqian\obj\Debug\chouqian.Form2.resources
